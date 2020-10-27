@@ -15,7 +15,7 @@ limitations under the License.
 */
 package main
 
-import "gohosts/cmd"
+import "github.com/wylu/gohosts/internal/cmd"
 
 func main() {
 	cmd.Execute()
